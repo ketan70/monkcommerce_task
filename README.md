@@ -21,7 +21,7 @@
 
 #### In the address bar, type http://localhost:8000/ (replace 8000 with the actual port number if you're running the server on a different port).
 
-#### Add the path to the API endpoint you want to call. For example, if you have an endpoint at http://localhost:8000/api/products/, http://localhost:8000/catalog_service/K_shop/categories/.
+#### Add the path to the API endpoint you want to call. For example, if you have an endpoint at http://localhost:8000/catalog_service/K_shop/products/, & http://localhost:8000/catalog_service/K_shop/categories/.
 
 #### Press Enter or Return to send the request to the server.
 
