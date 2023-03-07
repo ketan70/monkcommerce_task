@@ -30,3 +30,4 @@
 #### That's it! You should now be able to run the Django server and call an API using the localhost URL.
 
 I have developed different applications for fetching and API, and for the API, I have added the necessary data manually. I will share the final version of the project with you tomorrow after merging the data models in Django.
+Due to my college assignments, I am unable to work on the project with the given time constraints. However, I have completed the development of different applications for fetching and API.
