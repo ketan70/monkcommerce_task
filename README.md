@@ -1,6 +1,6 @@
 # Monkcommerce Task
 
-# Please unzip the file by right-clicking on it and selecting 'Extract All
+## Please unzip the file by right-clicking on it and selecting 'Extract All
 
 ## Django project and call its API:
 
