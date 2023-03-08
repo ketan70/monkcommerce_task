@@ -14,7 +14,7 @@
 
 #### Open a web browser and go to the URL http://localhost:8000 to access the homepage of the Django project.
 
-
+<hr>
 ## To call an API using the localhost URL, follow these steps:
 
 #### Open a web browser.
