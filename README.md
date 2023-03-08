@@ -15,6 +15,7 @@
 #### Open a web browser and go to the URL http://localhost:8000 to access the homepage of the Django project.
 
 <hr>
+
 ## To call an API using the localhost URL, follow these steps:
 
 #### Open a web browser.
@@ -29,6 +30,9 @@ http://localhost:8000/catalog_service/K_shop/products/ & http://localhost:8000/c
 #### The server will process the request and return a response, which will be displayed in the browser.
 
 #### That's it! You should now be able to run the Django server and call an API using the localhost URL.
+
+
+<hr>
 
 ###### Due to my college assignments, I am unable to work on the project with the given time constraints. However, I have completed the development of different applications for fetching and API.
 
